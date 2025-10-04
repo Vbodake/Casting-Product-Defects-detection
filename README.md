@@ -4,9 +4,9 @@ AI-powered defect detection system for manufacturing quality control. Uses deep 
 Dataset Link: https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product
 
 
-Total Images: 7,348 grayscale images
+- Total Images: 7,348 grayscale images
 
-Image Size: Resized to 512x512 pixels
+- Image Size: Resized to 512x512 pixels
 
 Classes:
 
@@ -21,11 +21,11 @@ Split: 80% training, 20% validation
 
 ## setup
 
-1 Clone the repository:
+1. Clone the repository:
 
-2 Install dependencies: "pip install torch torchvision gradio numpy opencv-python pillow matplotlib tqdm"
+2. Install dependencies: "pip install torch torchvision gradio numpy opencv-python pillow matplotlib tqdm"
 
-3 Download the dataset from Kaggle and place it in the project directory
+3. Download the dataset from Kaggle and place it in the project directory
 
 ## Usage
 
